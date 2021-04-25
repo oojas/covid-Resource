@@ -34,14 +34,14 @@ const RESOURCES = {
 "assets/Assets/images/westbengal.jpg": "3d4fac2c402a4f96ad821c098de20b59",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "84472aaf4ee5518c35bef24dfdb453cd",
+"assets/NOTICES": "a6e7663deb204fe72108fcff0e55f63a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "9e072cc4b74cf1b36ccd4da92979e571",
-"/": "9e072cc4b74cf1b36ccd4da92979e571",
-"main.dart.js": "14685c9e8746f95cfdcf0e3dac4383c9",
+"index.html": "462d272f972d9c06feb6052e7719d1a9",
+"/": "462d272f972d9c06feb6052e7719d1a9",
+"main.dart.js": "d4215bb55af248d279bfa4207b178579",
 "manifest.json": "085326144a6381f2711d05c7722d0b36",
 "version.json": "ede7481cd3911e0edfc5b3d66e44a95c"
 };
