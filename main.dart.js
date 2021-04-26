@@ -34576,7 +34576,7 @@ ay:function(){return new T.L2(C.r)}}
 T.L2.prototype={
 K:function(a,b){var s=null,r=t.w,q=b.V(r).f,p=b.V(r).f.f.b
 r=t.fQ
-return M.ai(s,T.ce(H.b([M.ai(s,U.aH("Assets/images/resource.jpg",200,200),s,s,s,s,s,s,q.a.a*0.45),L.a_("Lets Fight Corona\nTOGETHER",B.a4(C.h,50,C.l)),T.dT(H.b([new T.ad(C.o,Q.MY(!0,1200,L.a_(" 133+ million\ngiven one dose",A.iz(s,s,C.h,s,s,s,s,s,s,s,s,20,s,C.l,s,s,!0,s,s,s,s,s,s)),15,0.45,200),s),new T.ad(C.o,Q.MY(!0,1200,L.a_(" 19.2+ million\nfully vaccinated",A.iz(s,s,C.h,s,s,s,s,s,s,s,s,20,s,C.l,s,s,!0,s,s,s,s,s,s)),15,0.2,200),s)],r),C.a0,C.t)],r),C.E,C.a0,C.t),s,s,new S.al(C.f,s,s,new K.ck(C.V,C.V,new P.bg(50,50),new P.bg(50,50)),s,s,C.n),p+80,s,new V.bd(0,p,0,0),s)}}
+return M.ai(s,T.ce(H.b([M.ai(s,U.aH("Assets/images/resource.jpg",200,200),s,s,s,s,s,s,q.a.a*0.45),L.a_("Lets Fight Corona\nTOGETHER",B.a4(C.h,50,C.l)),T.dT(H.b([new T.ad(C.o,Q.MY(!0,1200,L.a_(" 139+ million\ngiven one dose",A.iz(s,s,C.h,s,s,s,s,s,s,s,s,20,s,C.l,s,s,!0,s,s,s,s,s,s)),15,0.45,200),s),new T.ad(C.o,Q.MY(!0,1200,L.a_(" 21.4+ million\nfully vaccinated",A.iz(s,s,C.h,s,s,s,s,s,s,s,s,20,s,C.l,s,s,!0,s,s,s,s,s,s)),15,0.2,200),s)],r),C.a0,C.t)],r),C.E,C.a0,C.t),s,s,new S.al(C.f,s,s,new K.ck(C.V,C.V,new P.bg(50,50),new P.bg(50,50)),s,s,C.n),p+80,s,new V.bd(0,p,0,0),s)}}
 T.rT.prototype={
 ay:function(){return new T.Hx(C.r)}}
 T.Hx.prototype={
