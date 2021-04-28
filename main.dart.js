@@ -34576,14 +34576,14 @@ ay:function(){return new T.L2(C.r)}}
 T.L2.prototype={
 K:function(a,b){var s=null,r=t.w,q=b.V(r).f,p=b.V(r).f.f.b
 r=t.fQ
-return M.ai(s,T.ce(H.b([M.ai(s,U.aH("Assets/images/resource.jpg",200,200),s,s,s,s,s,s,q.a.a*0.45),L.a_("Lets Fight Corona\nTOGETHER",B.a4(C.h,50,C.l)),T.dT(H.b([new T.ad(C.o,Q.MY(!0,1200,L.a_(" 143+ million\ngiven one dose",A.iz(s,s,C.h,s,s,s,s,s,s,s,s,20,s,C.l,s,s,!0,s,s,s,s,s,s)),15,0.47,200),s),new T.ad(C.o,Q.MY(!0,1200,L.a_(" 22.6+ million\nfully vaccinated",A.iz(s,s,C.h,s,s,s,s,s,s,s,s,20,s,C.l,s,s,!0,s,s,s,s,s,s)),15,0.25,200),s)],r),C.a3,C.t)],r),C.E,C.a3,C.t),s,s,new S.al(C.f,s,s,new K.ck(C.V,C.V,new P.bg(50,50),new P.bg(50,50)),s,s,C.n),p+80,s,new V.bd(0,p,0,0),s)}}
+return M.ai(s,T.ce(H.b([M.ai(s,U.aH("Assets/images/resource.jpg",200,200),s,s,s,s,s,s,q.a.a*0.45),L.a_("Lets Fight Corona\nTOGETHER",B.a4(C.h,50,C.l)),T.dT(H.b([new T.ad(C.o,Q.MY(!0,2000,L.a_(" 145+ million\ngiven one dose",A.iz(s,s,C.h,s,s,s,s,s,s,s,s,20,s,C.l,s,s,!0,s,s,s,s,s,s)),15,0.3,200),s),new T.ad(C.o,Q.MY(!0,2000,L.a_(" 23.6+ million\nfully vaccinated",A.iz(s,s,C.h,s,s,s,s,s,s,s,s,20,s,C.l,s,s,!0,s,s,s,s,s,s)),15,0.26,200),s)],r),C.a3,C.t)],r),C.E,C.a3,C.t),s,s,new S.al(C.f,s,s,new K.ck(C.V,C.V,new P.bg(50,50),new P.bg(50,50)),s,s,C.n),p+80,s,new V.bd(0,p,0,0),s)}}
 T.rT.prototype={
 ay:function(){return new T.Hx(C.r)}}
 T.Hx.prototype={
 K:function(a,b){var s,r=null,q=t.w,p=b.V(q).f
 q=b.V(q).f
 s=t.fQ
-return M.ai(r,T.dT(H.b([T.ce(H.b([M.ai(r,U.aH("Assets/images/resource.jpg",100,100),r,r,r,r,r,r,p.a.a*0.45),L.a_("Lets Fight Corona\nTOGETHER",B.a4(C.h,25,C.l))],s),C.E,C.a3,C.t),T.dT(H.b([new T.ad(C.pl,Q.MY(!0,2000,L.a_(" 143+ million\ngiven one dose",A.iz(r,r,C.h,r,r,r,r,r,r,r,r,13,r,C.l,r,r,!0,r,r,r,r,r,r)),15,0.45,120),r),new T.ad(C.pl,Q.MY(!0,2000,L.a_(" 22.6+ million\nfully vaccinated",A.iz(r,r,C.h,r,r,r,r,r,r,r,r,13,r,C.l,r,r,!0,r,r,r,r,r,r)),15,0.25,130),r)],s),C.a3,C.t)],s),C.a3,C.t),r,r,new S.al(C.f,r,r,new K.ck(C.V,C.V,new P.bg(80,80),new P.bg(80,80)),r,r,C.n),q.f.b+80,r,new V.bd(0,100,0,0),r)}}
+return M.ai(r,T.dT(H.b([T.ce(H.b([M.ai(r,U.aH("Assets/images/resource.jpg",100,100),r,r,r,r,r,r,p.a.a*0.45),L.a_("Lets Fight Corona\nTOGETHER",B.a4(C.h,25,C.l))],s),C.E,C.a3,C.t),T.dT(H.b([new T.ad(C.pl,Q.MY(!0,2000,L.a_(" 145+ million\ngiven one dose",A.iz(r,r,C.h,r,r,r,r,r,r,r,r,13,r,C.l,r,r,!0,r,r,r,r,r,r)),15,0.3,120),r),new T.ad(C.pl,Q.MY(!0,2000,L.a_(" 23.6+ million\nfully vaccinated",A.iz(r,r,C.h,r,r,r,r,r,r,r,r,13,r,C.l,r,r,!0,r,r,r,r,r,r)),15,0.25,130),r)],s),C.a3,C.t)],s),C.a3,C.t),r,r,new S.al(C.f,r,r,new K.ck(C.V,C.V,new P.bg(80,80),new P.bg(80,80)),r,r,C.n),q.f.b+80,r,new V.bd(0,100,0,0),r)}}
 V.xQ.prototype={
 ay:function(){return new V.L8(null,C.r)}}
 V.L8.prototype={
